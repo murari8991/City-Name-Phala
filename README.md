@@ -3,9 +3,9 @@ The concept of “Your Name + City Name = Your Luck” is not just philosophical
 Steps;
 
 1) mutlipty the letters of our city by four  ex: Mason = 5 letters * 4 = 20
-2) Name: Balasubrahmanyam = 16 letters 
-3) add 20 + 16 = 36
-4) now divided it by 7  i.e. 36/7 
+2) Name: Mubufv k = 7 letters 
+3) add 20 + 7 = 27
+4) now divided it by 7  i.e. 27/7 
 
 Remainder 1- good family life amd growth for children 
 Remainder 2- wealth
@@ -17,10 +17,10 @@ Remainder 0- Struggle and overall undesirable
 
 Drawing reference from classical texts like Vastu Ratnakar and Muhurta Ratnakar, this video explains how the vibrational value of your name and your city can impact your opportunities, success, and overall life direction.
 
-Shloka Reference:
-ग्रामनामाक्षरं ग्राह्यं चतुर्भिर्गुणयेत्तत: ।
-नरनामाक्षरं योज्यं सप्तभिभार्गमाहरेत् ॥
-वास्तु रत्नाकर, मुहूर्त रत्नाकर
+Shloka Reference:\
+ग्रामनामाक्षरं ग्राह्यं चतुर्भिर्गुणयेत्तत: ।\
+नरनामाक्षरं योज्यं सप्तभिभार्गमाहरेत् ॥\
+वास्तु रत्नाकर, मुहूर्त रत्नाकर\
 
 This shloka highlights a unique calculation method where:
 
@@ -51,15 +51,15 @@ Example: Mason → 5 letters
 Step 2: Your Name
 Count the total number of letters in your full name
 
-Example: Balasubrahmanyam → 16 letters
+Example: Mubufv k → 7 letters
 
 Step 3: Add Both Values
 
-20 (City value) + 16 (Name value) = 36
+20 (City value) + 7 (Name value) = 27
 
 Step 4: Divide by 7
 
-36 ÷ 7 = remainder 1
+27 ÷ 7 = remainder 7
 
 The remainder (Śeṣa) is the final indicator.
 
