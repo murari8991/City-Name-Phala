@@ -4,19 +4,13 @@
   "private": true,
   "type": "module",
   "dependencies": {
-<<<<<<< HEAD
     "@tailwindcss/vite": "^4.3.2",
-=======
->>>>>>> 140f7ee46e3680335efb09c81ef605cb21207e9f
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-<<<<<<< HEAD
     "tailwindcss": "^4.3.2",
-=======
->>>>>>> 140f7ee46e3680335efb09c81ef605cb21207e9f
     "web-vitals": "^3.1.0"
   },
   "overrides": {
@@ -25,6 +19,8 @@
     "postcss": "^8.4.31"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "start": "BROWSER=none WDS_SOCKET_PORT=0 vite --port 3000",
     "build": "vite build",
     "preview": "vite preview",
@@ -50,6 +46,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.0.1",
+    "gh-pages": "^6.3.0",
     "jsdom": "^26.1.0",
     "vite": "^8.0.12",
     "vitest": "^4.1.6"
