@@ -59,7 +59,7 @@ Step 3: Add Both Values
 
 Step 4: Divide by 7
 
-27 ÷ 7 = remainder 7
+27 ÷ 7 = remainder 6
 
 The remainder (Śeṣa) is the final indicator.
 
